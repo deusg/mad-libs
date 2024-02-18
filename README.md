@@ -10,4 +10,4 @@ Finally, the constructed sentence is printed to the console, allowing the user t
 Overall, this script provides a fun and interactive way for users to create their own unique stories by filling in the blanks with their imagination.
 
 ## Credits
-This project was inspired by the book "_Creative Coding in Python_" (Chapter 1, Page 26).
+This project was inspired by the book "_Creative Coding in Python_" (Chapter 1, Page 32).
